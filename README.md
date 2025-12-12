@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Crypto Stat Dashboard](https://via.placeholder.com/1200x600/0f172a/22d3ee?text=Crypto+Stat+Dashboard)
+![Crypto Stat Dashboard](ScreenShot%20Tool%20-20251212043831.png)oard)
 
 **A professional cryptocurrency trading dashboard with real-time market data, technical analysis, and trading journal**
 
@@ -85,21 +85,12 @@ The application leverages the CoinGecko API to provide up-to-date cryptocurrency
 ## 📸 Screenshots
 
 ### Dashboard - Market Overview
-![Dashboard](https://via.placeholder.com/1200x700/0f172a/22d3ee?text=Dashboard+with+Live+Ticker+and+Charts)
+![Dashboard](ScreenShot%20Tool%20-20251212043831.png)
 *Real-time market data with animated ticker tape and interactive price charts*
 
 ### Trading Journal - Strategy Management
-![Trading Journal](https://via.placeholder.com/1200x700/0f172a/8b5cf6?text=Trading+Journal+with+Analytics)
+![Trading Journal](ScreenShot%20Tool%20-20251212043924.png)
 *Track your trades, manage strategies, and analyze performance metrics*
-
-### Research Hub - Technical Analysis
-![Research Hub](https://via.placeholder.com/1200x700/0f172a/f59e0b?text=Research+Hub+with+Technical+Indicators)
-*Advanced technical analysis with RSI, ATR, and Bollinger Bands*
-
-### Mobile Responsive Design
-![Mobile View](https://via.placeholder.com/400x800/0f172a/10b981?text=Mobile+Responsive+Design)
-*Fully responsive design optimized for all screen sizes*
-
 ---
 
 ## 🛠 Tech Stack
@@ -410,7 +401,6 @@ Crypto Stat embraces a **glassmorphism fintech aesthetic** with a focus on clari
 [![Twitter](https://img.shields.io/badge/Twitter-@ethel__tech-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ethel_tech)
 [![Email](https://img.shields.io/badge/Email-contact@etheltechnologies.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact@etheltechnologies.com)
 
-</div>
 
 ---
 
