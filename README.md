@@ -122,57 +122,53 @@ The application leverages the CoinGecko API to provide up-to-date cryptocurrency
 
 ## 📁 File Structure
 
-\`\`\`
+## 📁 File Structure
+
+<pre>
+<code class="language-treeview" style="color: #e1e4e8;">
 crypto-stat/
-├── app/
-│   ├── layout.tsx                 # Root layout with metadata and fonts
-│   ├── page.tsx                   # Dashboard page (home)
-│   ├── journal/
-│   │   └── page.tsx               # Trading journal page
-│   ├── research/
-│   │   └── page.tsx               # Research hub page
-│   └── globals.css                # Global styles and design tokens
-│
-├── components/
-│   ├── layout/
-│   │   └── header.tsx             # Navigation header with active states
-│   │
-│   ├── dashboard/
-│   │   ├── ticker-tape.tsx        # Animated scrolling ticker
-│   │   ├── market-overview.tsx    # Global market statistics cards
-│   │   ├── price-chart.tsx        # Interactive candlestick chart
-│   │   └── coin-list.tsx          # Searchable cryptocurrency table
-│   │
-│   ├── journal/
-│   │   ├── journal-stats.tsx      # Performance analytics dashboard
-│   │   ├── strategy-list.tsx      # Strategy management interface
-│   │   ├── strategy-dialog.tsx    # Create/edit strategy modal
-│   │   ├── trade-journal.tsx      # Trade log table
-│   │   ├── trade-dialog.tsx       # Log trade modal
-│   │   └── pnl-chart.tsx          # Equity curve visualization
-│   │
-│   ├── research/
-│   │   ├── coin-selector.tsx      # Cryptocurrency selection dropdown
-│   │   ├── technical-analysis.tsx # Indicator statistics cards
-│   │   ├── indicator-charts.tsx   # RSI trend chart
-│   │   └── market-sentiment.tsx   # Fear & Greed gauge
-│   │
-│   └── ui/
-│       ├── glass-card.tsx         # Glassmorphism card component
-│       ├── animated-number.tsx    # Number animation component
-│       └── [shadcn components]    # Button, Card, Dialog, Input, etc.
-│
-├── hooks/
-│   └── use-crypto-data.ts         # SWR hooks for API data fetching
-│
-├── lib/
-│   ├── coingecko-api.ts           # CoinGecko API client with endpoints
-│   ├── technical-indicators.ts    # RSI, ATR, Bollinger Bands calculators
-│   ├── store.ts                   # Zustand store for journal data
-│   └── utils.ts                   # Utility functions (cn, etc.)
-│
-└── public/                        # Static assets
-\`\`\`
+├── <span style="color: #8b949e;">📁 app/</span>
+│   ├── <span style="color: #79c0ff;">📄 layout.tsx</span>                 # Root layout with metadata and fonts
+│   ├── <span style="color: #79c0ff;">📄 page.tsx</span>                   # Dashboard page (home)
+│   ├── <span style="color: #8b949e;">📁 journal/</span>
+│   │   └── <span style="color: #79c0ff;">📄 page.tsx</span>               # Trading journal page
+│   ├── <span style="color: #8b949e;">📁 research/</span>
+│   │   └── <span style="color: #79c0ff;">📄 page.tsx</span>               # Research hub page
+│   └── <span style="color: #a5d6ff;">📄 globals.css</span>                # Global styles and design tokens
+├── <span style="color: #8b949e;">📁 components/</span>
+│   ├── <span style="color: #8b949e;">📁 layout/</span>
+│   │   └── <span style="color: #79c0ff;">📄 header.tsx</span>             # Navigation header with active states
+│   ├── <span style="color: #8b949e;">📁 dashboard/</span>
+│   │   ├── <span style="color: #79c0ff;">📄 ticker-tape.tsx</span>        # Animated scrolling ticker
+│   │   ├── <span style="color: #79c0ff;">📄 market-overview.tsx</span>    # Global market statistics cards
+│   │   ├── <span style="color: #79c0ff;">📄 price-chart.tsx</span>        # Interactive candlestick chart
+│   │   └── <span style="color: #79c0ff;">📄 coin-list.tsx</span>          # Searchable cryptocurrency table
+│   ├── <span style="color: #8b949e;">📁 journal/</span>
+│   │   ├── <span style="color: #79c0ff;">📄 journal-stats.tsx</span>      # Performance analytics dashboard
+│   │   ├── <span style="color: #79c0ff;">📄 strategy-list.tsx</span>      # Strategy management interface
+│   │   ├── <span style="color: #79c0ff;">📄 strategy-dialog.tsx</span>    # Create/edit strategy modal
+│   │   ├── <span style="color: #79c0ff;">📄 trade-journal.tsx</span>      # Trade log table
+│   │   ├── <span style="color: #79c0ff;">📄 trade-dialog.tsx</span>       # Log trade modal
+│   │   └── <span style="color: #79c0ff;">📄 pnl-chart.tsx</span>          # Equity curve visualization
+│   ├── <span style="color: #8b949e;">📁 research/</span>
+│   │   ├── <span style="color: #79c0ff;">📄 coin-selector.tsx</span>      # Cryptocurrency selection dropdown
+│   │   ├── <span style="color: #79c0ff;">📄 technical-analysis.tsx</span> # Indicator statistics cards
+│   │   ├── <span style="color: #79c0ff;">📄 indicator-charts.tsx</span>   # RSI trend chart
+│   │   └── <span style="color: #79c0ff;">📄 market-sentiment.tsx</span>   # Fear & Greed gauge
+│   └── <span style="color: #8b949e;">📁 ui/</span>
+│       ├── <span style="color: #79c0ff;">📄 glass-card.tsx</span>         # Glassmorphism card component
+│       ├── <span style="color: #79c0ff;">📄 animated-number.tsx</span>    # Number animation component
+│       └── <span style="color: #8b949e;">📁 [shadcn components]</span>    # Button, Card, Dialog, Input, etc.
+├── <span style="color: #8b949e;">📁 hooks/</span>
+│   └── <span style="color: #79c0ff;">📄 use-crypto-data.ts</span>         # SWR hooks for API data fetching
+├── <span style="color: #8b949e;">📁 lib/</span>
+│   ├── <span style="color: #79c0ff;">📄 coingecko-api.ts</span>           # CoinGecko API client with endpoints
+│   ├── <span style="color: #79c0ff;">📄 technical-indicators.ts</span>    # RSI, ATR, Bollinger Bands calculators
+│   ├── <span style="color: #79c0ff;">📄 store.ts</span>                   # Zustand store for journal data
+│   └── <span style="color: #79c0ff;">📄 utils.ts</span>                   # Utility functions (cn, etc.)
+└── <span style="color: #8b949e;">📁 public/</span>                        # Static assets (images, fonts, icons)
+</code>
+</pre>
 
 ---
 
