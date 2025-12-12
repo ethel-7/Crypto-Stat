@@ -182,7 +182,7 @@ crypto-stat/
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/crypto-stat.git
+   git clone https://github.com/ethel-7/crypto-stat.git
    cd crypto-stat
    \`\`\`
 
@@ -216,11 +216,7 @@ npm run build
 npm start
 \`\`\`
 
-### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/crypto-stat)
-
----
 
 ## 🔌 API Integration
 
