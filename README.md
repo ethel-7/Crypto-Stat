@@ -1,6 +1,11 @@
 # Crypto Stat - Professional Trading Dashboard & Journal
 
-<div align="center">
+## Screenshots
+
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
+![Screenshot 3](screenshots/3.png)
+
 
 ![Crypto Stat Dashboard](ScreenShot%20Tool%20-20251212043831.png)oard)
 
