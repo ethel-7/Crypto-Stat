@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
+![Screenshot 1](public/screenshots/1.png)
+![Screenshot 2](public/screenshots/2.png)
+![Screenshot 3](public/screenshots/3.png)
 
 
 ![Crypto Stat Dashboard](ScreenShot%20Tool%20-20251212043831.png)oard)
