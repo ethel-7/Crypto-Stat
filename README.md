@@ -392,32 +392,12 @@ Crypto Stat embraces a **glassmorphism fintech aesthetic** with a focus on clari
 
 **Natnael Sintayehu** - Full-Stack Developer & Creator
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-etheltechnologies.com-22d3ee?style=for-the-badge&logo=google-chrome)](https://etheltechnologies.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natnael_Sintayehu-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/natnael-sintayehu)
-[![GitHub](https://img.shields.io/badge/GitHub-ethel--tech-181717?style=for-the-badge&logo=github)](https://github.com/ethel-tech)
-[![Twitter](https://img.shields.io/badge/Twitter-@ethel__tech-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ethel_tech)
-[![Email](https://img.shields.io/badge/Email-contact@etheltechnologies.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact@etheltechnologies.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natnael-sintayehu-84b669254)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethel-7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/natnael_sintayehu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethel.tech)
 
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/crypto-stat/issues) page
-2. Create a new issue with detailed information
-3. Contact us at: contact@etheltechnologies.com
-
----
 
 <div align="center">
 
